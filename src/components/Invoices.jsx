@@ -101,7 +101,7 @@ const TextContainer = styled.div`
 `;
 const Title = styled.h4``;
 const SubTitle = styled.h5`
-  font-weight: 400;
+  font-weight: 380;
 `;
 
 const Container = styled.div`
